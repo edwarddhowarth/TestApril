@@ -14,6 +14,7 @@ namespace TestApril
         public void something()
         {
             Console.WriteLine(ID);
+            Console.WriteLine(name);
         }
     }
 }
