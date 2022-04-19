@@ -10,5 +10,10 @@ namespace TestApril
     {
         public int ID;
         public string name;
+
+        public void something()
+        {
+            Console.WriteLine(ID);
+        }
     }
 }
